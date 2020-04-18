@@ -1,0 +1,10 @@
+{
+    "AppID": "",
+    "AppSecret": "",
+    "token": "",
+    "update_time": 1587182815.5984151,
+    "token_url": "https://api.weixin.qq.com/cgi-bin/token",
+    "getusers_url": "https://api.weixin.qq.com/cgi-bin/user/get",
+    "EncodingAESKey": "",
+    "access_token": ""
+}

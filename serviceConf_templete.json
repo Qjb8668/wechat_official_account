@@ -1,0 +1,13 @@
+{
+    "tencent_ai_config": {
+        "app_id": 2115506023, 
+        "app_key": ""
+    },
+
+    "tencent_ai_translation": {
+        "url": "https://api.ai.qq.com/fcgi-bin/nlp/nlp_texttranslate"
+    },
+    "tencent_ai_talking": {
+        "url": "https://api.ai.qq.com/fcgi-bin/nlp/nlp_textchat"
+    }
+}

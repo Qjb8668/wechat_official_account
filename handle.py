@@ -4,8 +4,8 @@ import time
 
 def messageHandle(data, service, wechat):
     def textHandle(content):
-        return service.tecent_talking(content, data['FromUserName'])
-        # return service.tecent_translate(content)
+        # return service.tecent_talking(content, data['FromUserName'])
+        return service.tecent_translate(content)
 
     def imageHandle():
         return 'New features is coming soon!'
