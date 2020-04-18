@@ -1,0 +1,10 @@
+{
+    "AppID": "wx11123322da3cb608",
+    "AppSecret": "65d2abe0ce0bbce806ce07d9e8612494",
+    "token": "WechatToken",
+    "update_time": 1587182815.5984151,
+    "token_url": "https://api.weixin.qq.com/cgi-bin/token",
+    "getusers_url": "https://api.weixin.qq.com/cgi-bin/user/get",
+    "EncodingAESKey": "N9T6k1kR2jELZr8QJAP0A3FGo3gh3PaHgAr4bKqHYo8",
+    "access_token": "32_JudXDJp6UMTRPg8FolP96PssetT9NFzhtVc-yFKKPJ8gJrkllGR30VrrBYc4fJlrn9uPJ--eBznG85n798IJG-TeWkY1n4iVhsdP_BU2jO2i1Lx4HX8BnxE1Lg7DAHhphQUCkt2nvbwscKKsJEIjAHAAVZ"
+}
